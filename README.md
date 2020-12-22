@@ -1,4 +1,4 @@
-![alt text](ddos.png)
+![Logo](ddos.png)
 
 # Packet DDOS
 
